@@ -8,10 +8,9 @@ I value **readable code, clear communication, and long-term maintainability**.
 
 I mainly work with **React, Next.js, and TypeScript** on the frontend and **.NET 8 with Azure** on the backend, including cloud services, CI/CD pipelines, and AI integrations using **OpenAI APIs and Microsoft Semantic Kernel**.
 
-# Fun Facts
+Fun Facts:
 
-- I enjoy building systems more than talking about them  
-- Clean Architecture enthusiast  
-- Calm under pressure, structured by default  
-- I like projects that combine engineering with real user impact  
+- I've been skiing since I was two years old
+- I've been addicted to coffee since my bachelor's thesis
+- Hobbies: music, skiing, climbing, singing  
 
