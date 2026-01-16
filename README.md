@@ -1,6 +1,6 @@
 # Hey, I’m Marius 👋
 
-I’m a **final-year Bachelor’s student in Media Informatics** and **working student / intern at adesso SE**, based in Germany 🇩🇪.  
+I’m a **final-year Bachelor’s student in Media Informatics**, based in Germany 🇩🇪.  
 I build **clean, scalable web applications** and enjoy turning complex requirements into practical, maintainable solutions.
 
 I’m especially interested in **full-stack development, cloud-native systems, and AI-powered applications**.
