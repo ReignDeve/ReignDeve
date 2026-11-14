@@ -1,13 +1,19 @@
-# Hey, I’m Marius 👋
+![Marius Bungert · After Hours](./after-hours.png)
 
-I spend a surprising amount of time thinking about where things belong. Sometimes it’s a prop in a theatre storeroom. Sometimes it’s a piece of logic in a codebase. I’ve built software for both.
+# Hey, I’m Marius.
 
-I’m an **Informatics master’s student at FAU Erlangen-Nürnberg** with a bachelor’s in Media Informatics. At work, I build full-stack applications with **Angular, TypeScript, Kotlin, and Spring Boot**. My other projects have taken me through **React, Next.js, .NET, and Azure**.
+I study **Informatics at FAU Erlangen-Nürnberg** and work as a full-stack developer with **Angular, TypeScript, Kotlin, and Spring Boot**. After hours, I’m usually at dance practice, in a musical rehearsal, or back at my desk building something.
 
-## A few things I’ve built
+## Side A · On my desk
 
-- **EnsembleOS** — a tool my musical theatre club uses to keep track of props and where to find them.
-- **CodePilot** — an AI tutor I built for my bachelor’s thesis to explore what kind of feedback helps beginners get unstuck in C#.
-- **CLARITY** — a Windows desktop app for figuring out what’s taking up space on your drive, built with Tauri, Rust, and React.
+| Project | What I built |
+| :--- | :--- |
+| **EnsembleOS** | A props inventory my musical theatre club uses to remember what we own and which shelf it’s on. |
+| **CodePilot** | An AI tutor for beginners learning C#. For my bachelor’s thesis, I explored how to give someone enough of a hint to get unstuck. |
+| **CLARITY** | A Windows desktop app for answering “where did all my storage go?” Built with Tauri, Rust, and React. |
 
-Away from the keyboard, I dance competitive **Rock ’n’ Roll**, perform in musicals, and ski whenever I get the chance. I’ve been skiing since I was two. The coffee habit came later, somewhere around the bachelor’s thesis.
+I also like working with **Next.js, .NET, and Azure**, especially when I can take a project from its first screen through to deployment.
+
+## Side B · Away from the keyboard
+
+I compete in **acrobatic Rock ’n’ Roll** and perform in musicals. I’ve been skiing since I was two. My coffee habit took a little longer to develop. I blame the bachelor’s thesis.
