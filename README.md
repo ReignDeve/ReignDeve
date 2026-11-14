@@ -1,19 +1,30 @@
-![Marius Bungert · After Hours](./after-hours.png)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Marius Bungert, full-stack developer and Informatics master’s student at FAU Erlangen-Nürnberg"></picture>
 
-# Hey, I’m Marius.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Angular, TypeScript, Kotlin and Spring Boot. Also React, Next.js, .NET and Azure."></picture>
 
-I study **Informatics at FAU Erlangen-Nürnberg** and work as a full-stack developer with **Angular, TypeScript, Kotlin, and Spring Boot**. After hours, I’m usually at dance practice, in a musical rehearsal, or back at my desk building something.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg"><img src="assets/projects-light.svg" width="100%" alt="Project modules"></picture>
 
-## Side A · On my desk
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-1-dark.svg"><img src="assets/card-1-light.svg" width="49%" alt="EnsembleOS — Props inventory used by my local musical theatre club."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-2-dark.svg"><img src="assets/card-2-light.svg" width="49%" alt="CodePilot — Feedback for beginners stuck on C# programming exercises."></picture>
+</p>
 
-| Project | What I built |
-| :--- | :--- |
-| **EnsembleOS** | A props inventory my musical theatre club uses to remember what we own and which shelf it’s on. |
-| **CodePilot** | An AI tutor for beginners learning C#. For my bachelor’s thesis, I explored how to give someone enough of a hint to get unstuck. |
-| **CLARITY** | A Windows desktop app for answering “where did all my storage go?” Built with Tauri, Rust, and React. |
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-3-dark.svg"><img src="assets/card-3-light.svg" width="49%" alt="CLARITY — See what’s filling your drive on Windows."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-4-dark.svg"><img src="assets/card-4-light.svg" width="49%" alt="LUCY — Exploring a room assistant with persistent local memory."></picture>
+</p>
 
-I also like working with **Next.js, .NET, and Azure**, especially when I can take a project from its first screen through to deployment.
+<details>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg"><img src="assets/terminal-light.svg" width="93%" alt="Expand personal profile with whoami --verbose"></picture></summary>
 
-## Side B · Away from the keyboard
+```text
+$ whoami --verbose
+name       Marius Bungert
+location   Nuremberg area, Germany
+focus      full-stack development / local AI
+offline    competitive acrobatic rock ’n’ roll
+since      skiing at age 2
+coffee     enabled during the bachelor’s thesis
+```
 
-I compete in **acrobatic Rock ’n’ Roll** and perform in musicals. I’ve been skiing since I was two. My coffee habit took a little longer to develop. I blame the bachelor’s thesis.
+</details>
