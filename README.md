@@ -1,30 +1,19 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Marius Bungert, full-stack developer and Informatics master’s student at FAU Erlangen-Nürnberg"></picture>
+<img src="assets/hero.svg" width="100%" alt="Marius Bungert — full-stack developer, M.Sc. Informatics at FAU Erlangen-Nürnberg">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Angular, TypeScript, Kotlin and Spring Boot. Also React, Next.js, .NET and Azure."></picture>
+<img src="assets/stack.svg" width="100%" alt="Stack: Angular, TypeScript, Kotlin and Spring Boot. Also React, Next.js, .NET and Azure.">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg"><img src="assets/projects-light.svg" width="100%" alt="Project modules"></picture>
+<img src="assets/projects.svg" width="100%" alt="Projects">
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-1-dark.svg"><img src="assets/card-1-light.svg" width="49%" alt="EnsembleOS — Props inventory used by my local musical theatre club."></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-2-dark.svg"><img src="assets/card-2-light.svg" width="49%" alt="CodePilot — Feedback for beginners stuck on C# programming exercises."></picture>
+<img src="assets/card-1.svg" width="49%" alt="EnsembleOS — Props inventory for a local musical theatre club.">
+<img src="assets/card-2.svg" width="49%" alt="CodePilot — Feedback for beginners stuck on C# programming exercises.">
 </p>
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-3-dark.svg"><img src="assets/card-3-light.svg" width="49%" alt="CLARITY — See what’s filling your drive on Windows."></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-4-dark.svg"><img src="assets/card-4-light.svg" width="49%" alt="LUCY — Exploring a room assistant with persistent local memory."></picture>
+<img src="assets/card-3.svg" width="49%" alt="CLARITY — See what’s filling your drive on Windows.">
+<img src="assets/card-4.svg" width="49%" alt="LUCY — A room assistant with persistent local memory.">
 </p>
 
-<details>
-<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg"><img src="assets/terminal-light.svg" width="93%" alt="Expand personal profile with whoami --verbose"></picture></summary>
+<img src="assets/offgrid.svg" width="100%" alt="Off the grid: skiing since age 2, competitive acrobatic rock ’n’ roll, coffee enabled since the bachelor’s thesis.">
 
-```text
-$ whoami --verbose
-name       Marius Bungert
-location   Nuremberg area, Germany
-focus      full-stack development / local AI
-offline    competitive acrobatic rock ’n’ roll
-since      skiing at age 2
-coffee     enabled during the bachelor’s thesis
-```
-
-</details>
+<img src="assets/footer.svg" width="100%" alt="End of trail">
